@@ -1,6 +1,7 @@
 # TINDER-CLONE
 Tinder-Clone
 
+**********open master Branch instead of main****************************************
 
 
 
